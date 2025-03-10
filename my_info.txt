@@ -1,0 +1,3 @@
+Nmae:Shreyas K
+course:introduction to DEVSECOPS
+fav programming lang:python,java
